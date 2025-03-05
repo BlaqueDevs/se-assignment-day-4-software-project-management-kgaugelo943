@@ -143,16 +143,62 @@ Developing a detailed project schedule offers several benefits:
 
 Gantt charts visually represent a project's timeline, showing tasks, durations and dependencies. 
 They help by:
-Providing a Clear Timeline – Displays when tasks start, how long they take, and when they end.
-Identifying Dependencies – Shows relationships between tasks, ensuring that prerequisite tasks are completed on time.
-Tracking Progress – Updates can be added to show completed tasks and remaining work.
-Enhancing Collaboration – Helps teams coordinate their efforts by understanding who is responsible for what.
-Facilitating Adjustments – Allows for easy rescheduling and adjustments in response to changes.
+1. Providing a Clear Timeline – Displays when tasks start, how long they take, and when they end.
+2. Identifying Dependencies – Shows relationships between tasks, ensuring that prerequisite tasks are completed on time.
+3. Tracking Progress – Updates can be added to show completed tasks and remaining work.
+4. Enhancing Collaboration – Helps teams coordinate their efforts by understanding who is responsible for what.
+5. Facilitating Adjustments – Allows for easy rescheduling and adjustments in response to changes.
 
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
+My passion for technology lies in its ability to solve real-world problems and create meaningful change. I’m particularly interested in learning skills like app development, user interface design, and systems management to bring my vision to life. I plan to start a mobile bakery that provides healthy food options for schools and healthcare facilities.
+
+An essential part of this initiative is developing an app that enables parents to order meals for their children, empowering them to have control over what their kids consume at school. This combination of tech and healthy food would not only simplify the ordering process but also contribute to fostering better nutrition and well-being in young people especially in our communities where many schools have experienced death of learners due to food poisioning in the snacks they consumed.
+
+This problems are significant to my audience which are mostly learners and parents because they directly impact quality and healthy food options in schools. My software provide a solution to the growing concern about what children consume during school hours. Parents can now take control of their kids’ snacking habits by placing pre-orders through our user-friendly app, allowing them to select from our range of carefully crafted goodies. 
+
 
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
+Clearly defining the problem is a crucial step in developing an effective software solution because it ensures that the development process is focused, efficient, and aligned with the actual needs of users.
+1. Avoids Scope Creep
+- When the problem is well-defined, the project stays on track, preventing unnecessary features from being added, which can increase costs and complexity.
+
+2. Ensures User-Centered Design
+- A clear problem definition helps developers understand the target audience and their pain points, leading to a solution that effectively addresses user needs.
+
+3. Saves Time and Resources
+- A well-defined problem statement prevents wasted effort on unnecessary functionalities, reducing development time and costs.
+
+For my mobile bakery app, a clear problem definition would involve identifying specific challenges like:
+- The difficulty parents face in controlling their children’s school meals.
+- The need for a seamless ordering system for healthy food.
+- The requirements of schools and healthcare facilities for bulk orders.
+
+
 ## 10. How would you describe your software solution in a way that captures its essence without diving into technical details?
+I would describe it as a convenient and health-focused ordering platform that empowers parents to easily select nutritious meals for their children at school. It streamlines meal planning, ensures kids have access to wholesome food, and supports schools and healthcare facilities in providing better nutrition all through a simple and user-friendly mobile experience.
+
 ## 11. What are the main features or functionalities that make your software stand out?
+- Pre-Ordering & Scheduling – Parents can order meals in advance.
+- Nutritional Tracking – Shows meal calories & ingredients for informed choices.
+- Allergy Alerts – Warns about food allergens based on child profiles.
+- Subscription Plans – Weekly or monthly meal plans for convenience.
+- Live Order Tracking – Parents and schools can track order delivery.
+- Seamless Payments – Integrated payment options for easy checkout.
+
 ## 12. What data is available regarding the market size and growth potential for your software?
+1. School Meal Market Size
+- The global school meal market was valued at approximately $22.5 billion in 2023 and is expected to grow due to increasing awareness of child nutrition.
+
+2. Healthy Food Trends in Schools & Healthcare
+- The global healthy snacks market is expected to reach $152 billion by 2030, growing at a 6.6% CAGR.
+- Schools and healthcare facilities are increasing demand for fresh, organic, and low-sugar food options.
+
+3. Adoption of Tech in School Lunch Programs
+- Cashless payment systems and mobile ordering apps in schools are seeing high adoption rates to streamline meal services.
+
 ## 13. How can understanding market trends inform your software’s positioning and development?
+Understanding market trends helps shape your software’s positioning and development by ensuring it meets real demand, stays competitive, and resonates with users.
+1. Identifying Customer Needs
+- Market trends reveal evolving consumer preferences, helping you align features with what users actually want.
+- For my mobile bakery app, if trends show increasing demand for organic or allergen-free foods, I can incorporate filtering options for these preferences.
+
